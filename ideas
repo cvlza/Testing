@@ -1,0 +1,29 @@
+TEST WEBSITES
+
+!Type of Website
+  * Features
+  @ Specific Demo website
+
+!General (Elements/Objects/UI)
+  @ demoqa (https://demoqa.com/)
+  @ The Internet (http://the-internet.herokuapp.com/)
+ 
+
+!E-commerce Website
+  * Login
+  * Add to cart
+  * Add multiple iterms to cart
+  * Remove items to cart
+  * Proceed to checkout
+  @ 
+
+!Financial Tech
+  * Login
+  * Balance
+  * Withdraw
+  * Deposit
+  * Fund Transfer
+  * Pay Bill
+  * Transaction History
+  @ ParaBank (https://parabank.parasoft.com/parabank/index.htm)
+  @ DBank demo (http://dbankdemo.com/bank/login)
