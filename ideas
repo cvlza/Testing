@@ -15,6 +15,7 @@ TEST WEBSITES
   * Add multiple iterms to cart
   * Remove items to cart
   * Proceed to checkout
+  @ https://magento.softwaretestingboard.com/
   @ 
 
 !Financial Tech
@@ -26,4 +27,5 @@ TEST WEBSITES
   * Pay Bill
   * Transaction History
   @ ParaBank (https://parabank.parasoft.com/parabank/index.htm)
-  @ DBank demo (http://dbankdemo.com/bank/login)
+  @ DBank demo (http://dbankdemo.com/bank/login) - site not working
+  @ XYZ Bank (https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
